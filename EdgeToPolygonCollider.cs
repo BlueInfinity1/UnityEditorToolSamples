@@ -1,3 +1,5 @@
+// A tool for converting an EdgeCollider2D in a selected object to a PolygonCollider2D, while preserving all the collider points
+
 using UnityEditor;
 using UnityEngine;
 
