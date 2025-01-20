@@ -1,6 +1,8 @@
+// A correction tool for undoing the rotation of a SpriteShape object while keeping all the SpriteShape points in their original global positions. 
+
 using UnityEngine;
 using UnityEditor;
-using UnityEngine.U2D; // Include if you are using SpriteShape
+using UnityEngine.U2D;
 using System.Collections.Generic;
 
 public class ResetSpriteShapeRotation
